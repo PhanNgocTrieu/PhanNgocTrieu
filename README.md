@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on ... C/C++ Development Position
 - 📫 How to reach me:
 -     Email: phantrieu580@gmail.com
--     Facebook: https://www.facebook.com/TrieuJohn.200799/
-- 
+-     Facebook: https://www.facebook.com/trieu.phanngoc.31/
+-     // Already Update Email
+-     
 
 <!---
 PhanNgocTrieu/PhanNgocTrieu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
